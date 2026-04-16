@@ -7,7 +7,9 @@ Aplicación para gestionar un banco de preguntas de examen con base de datos, pe
 Para este primer milestone, el equipo se organizará de la siguiente manera:
 
 Fernando: Desarrollo del diagrama UML
+
 Jhosue: Desarrollo del diagrama Entidad–Relación
+
 Víctor: Desarrollo del diagrama de Gantt y coordinación general del equipo
 
 👥 Organización del equipo
