@@ -57,25 +57,6 @@ Con esta práctica el alumnado aprenderá a:
 
 ---
 
-## 👨‍👩‍👦 Organización del equipo
-
-Para este primer milestone, el equipo se organizará de la siguiente manera:
-
-### 👤 Fernando
-
-* 📘 Desarrollo del diagrama UML
-
-### 👤 Jhosue
-
-* 🗂️ Desarrollo del diagrama Entidad–Relación
-
-### 👤 Víctor
-
-* 📊 Desarrollo del diagrama de Gantt
-* 📌 Coordinación general del equipo
-
----
-
 ## 🧩 Coordinación del equipo
 
 👑 Víctor asumirá el rol de coordinador, encargándose de:
