@@ -24,14 +24,14 @@ Además, esta práctica permitirá justificar las decisiones de diseño tomadas 
 
 El proyecto consiste en una aplicación para gestionar un banco de preguntas de examen con base de datos, permitiendo:
 
-✅ Crear preguntas tipo test
-✅ Editar preguntas
-✅ Eliminar preguntas
-✅ Consultar preguntas
-✅ Gestionar preguntas de desarrollo
-✅ Generar exámenes automáticamente según criterios establecidos
-✅ Controlar el acceso mediante contraseñas cifradas
-✅ Registrar la actividad de los usuarios dentro del sistema
+* ✅ Crear preguntas tipo test
+* ✅ Editar preguntas
+* ✅ Eliminar preguntas
+* ✅ Consultar preguntas
+* ✅ Gestionar preguntas de desarrollo
+* ✅ Generar exámenes automáticamente según criterios establecidos
+* ✅ Controlar el acceso mediante contraseñas cifradas
+* ✅ Registrar la actividad de los usuarios dentro del sistema
 
 Este sistema busca facilitar la organización, seguridad y automatización en la gestión de exámenes académicos.
 
@@ -41,21 +41,38 @@ Este sistema busca facilitar la organización, seguridad y automatización en la
 
 Con esta práctica el alumnado aprenderá a:
 
-✅ Identificar correctamente los elementos del sistema software
-✅ Diseñar diagramas UML coherentes con el proyecto
-✅ Aplicar buenas prácticas de modelado
-✅ Desarrollar habilidades de documentación técnica
-✅ Exponer y defender decisiones de diseño
+* ✅ Identificar correctamente los elementos del sistema software
+* ✅ Diseñar diagramas UML coherentes con el proyecto
+* ✅ Aplicar buenas prácticas de modelado
+* ✅ Desarrollar habilidades de documentación técnica
+* ✅ Exponer y defender decisiones de diseño
 
 ---
 
 ## 👥 Organización del trabajo
 
-👨‍💻👩‍💻 Trabajo en grupos de mínimo 2 y máximo 4 personas.
+* 👨‍💻👩‍💻 Trabajo en grupos de mínimo 2 y máximo 4 personas
+* 📌 Todos los integrantes deberán participar activamente
+* 🔍 Será necesario poder identificar claramente el trabajo individual de cada miembro
 
-📌 Todos los integrantes deberán participar activamente.
+---
 
-🔍 Será necesario poder identificar claramente el trabajo individual de cada miembro.
+## 👨‍👩‍👦 Organización del equipo
+
+Para este primer milestone, el equipo se organizará de la siguiente manera:
+
+### 👤 Fernando
+
+* 📘 Desarrollo del diagrama UML
+
+### 👤 Jhosue
+
+* 🗂️ Desarrollo del diagrama Entidad–Relación
+
+### 👤 Víctor
+
+* 📊 Desarrollo del diagrama de Gantt
+* 📌 Coordinación general del equipo
 
 ---
 
@@ -63,10 +80,10 @@ Con esta práctica el alumnado aprenderá a:
 
 👑 Víctor asumirá el rol de coordinador, encargándose de:
 
-✅ Organización general del trabajo
-✅ Seguimiento del avance del proyecto
-✅ Supervisión de entregas
-✅ Coordinación entre los miembros del grupo
+* ✅ Organización general del trabajo
+* ✅ Seguimiento del avance del proyecto
+* ✅ Supervisión de entregas
+* ✅ Coordinación entre los miembros del grupo
 
 Además, cada integrante trabajará en una clase dentro del módulo de programación, permitiendo avanzar de forma paralela al diseño de los diagramas y optimizando el desarrollo del proyecto.
 
@@ -157,9 +174,9 @@ Se podrán añadir otros diagramas si aportan valor al proyecto:
 
 Se valorará especialmente:
 
-✅ La coherencia entre los diagramas y la implementación
-✅ La correcta aplicación del diseño planteado
-✅ La organización del código según el modelo propuesto
+* ✅ La coherencia entre los diagramas y la implementación
+* ✅ La correcta aplicación del diseño planteado
+* ✅ La organización del código según el modelo propuesto
 
 No se trata solo de “dibujar”, sino de diseñar correctamente.
 
@@ -190,10 +207,10 @@ La documentación debe ser clara, profesional y bien estructurada.
 
 Se valorará:
 
-⭐ Claridad en la exposición
-⭐ Dominio del tema
-⭐ Participación equilibrada del grupo
-⭐ Capacidad de respuesta ante preguntas
+* ⭐ Claridad en la exposición
+* ⭐ Dominio del tema
+* ⭐ Participación equilibrada del grupo
+* ⭐ Capacidad de respuesta ante preguntas
 
 ---
 
@@ -228,12 +245,12 @@ También se podrá utilizar cualquier otra herramienta equivalente.
 
 ## 💡 Recomendaciones finales
 
-✅ Mantener consistencia entre todos los diagramas
-✅ Evitar diagramas sobrecargados
-✅ Utilizar nombres claros y profesionales
-✅ Revisar ortografía y presentación
-✅ Preparar bien la defensa oral
-✅ Repartir correctamente el trabajo del grupo
+* ✅ Mantener consistencia entre todos los diagramas
+* ✅ Evitar diagramas sobrecargados
+* ✅ Utilizar nombres claros y profesionales
+* ✅ Revisar ortografía y presentación
+* ✅ Preparar bien la defensa oral
+* ✅ Repartir correctamente el trabajo del grupo
 
 🏆 Un buen UML no solo representa el sistema: demuestra comprensión, planificación y calidad en el desarrollo.
 
@@ -241,6 +258,7 @@ También se podrá utilizar cualquier otra herramienta equivalente.
 
 ## 👨‍🏫 Autoría
 
-🏫 Asignatura: Entornos de Desarrollo
-📘 Unidad: UT5
-📌 Práctica: Diseño y modelado UML del proyecto de Programación
+* 🏫 Asignatura: Entornos de Desarrollo
+* 📘 Unidad: UT5
+* 📌 Práctica: Diseño y modelado UML del proyecto de Programación
+
