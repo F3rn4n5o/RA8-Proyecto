@@ -1,12 +1,10 @@
 # 📘 README - Práctica UT5: Diseño, Desarrollo y Exposición del Diagrama UML
 
-## 🏫 Asignatura
+## 🏫 Información general
 
-Entornos de Desarrollo
-
-## 📚 Práctica
-
-UT5 - Diseño, desarrollo y exposición del diagrama UML del proyecto de Programación
+* **Asignatura:** Entornos de Desarrollo
+* **Unidad:** UT5
+* **Práctica:** Diseño, desarrollo y exposición del diagrama UML del proyecto de Programación
 
 ---
 
@@ -37,27 +35,15 @@ Este sistema busca facilitar la organización, seguridad y automatización en la
 
 ---
 
-## 🎯 Objetivos de aprendizaje
+## 👥 Organización del equipo
 
-Con esta práctica el alumnado aprenderá a:
+### Integrantes y funciones
 
-* ✅ Identificar correctamente los elementos del sistema software
-* ✅ Diseñar diagramas UML coherentes con el proyecto
-* ✅ Aplicar buenas prácticas de modelado
-* ✅ Desarrollar habilidades de documentación técnica
-* ✅ Exponer y defender decisiones de diseño
+* 👤 **Fernando:** Desarrollo del diagrama UML
+* 👤 **Jhosue:** Desarrollo del diagrama Entidad–Relación
+* 👤 **Víctor:** Desarrollo del diagrama de Gantt y coordinación general del equipo
 
----
-
-## 👥 Organización del trabajo
-
-* 👨‍💻👩‍💻 Trabajo en grupos de mínimo 2 y máximo 4 personas
-* 📌 Todos los integrantes deberán participar activamente
-* 🔍 Será necesario poder identificar claramente el trabajo individual de cada miembro
-
----
-
-## 🧩 Coordinación del equipo
+### Coordinación
 
 👑 Víctor asumirá el rol de coordinador, encargándose de:
 
@@ -67,6 +53,18 @@ Con esta práctica el alumnado aprenderá a:
 * ✅ Coordinación entre los miembros del grupo
 
 Además, cada integrante trabajará en una clase dentro del módulo de programación, permitiendo avanzar de forma paralela al diseño de los diagramas y optimizando el desarrollo del proyecto.
+
+---
+
+## 🎯 Objetivos de aprendizaje
+
+Con esta práctica el alumnado aprenderá a:
+
+* ✅ Identificar correctamente los elementos del sistema software
+* ✅ Diseñar diagramas UML coherentes con el proyecto
+* ✅ Aplicar buenas prácticas de modelado
+* ✅ Desarrollar habilidades de documentación técnica
+* ✅ Exponer y defender decisiones de diseño
 
 ---
 
@@ -90,24 +88,14 @@ Este análisis servirá como base para el desarrollo de los diagramas UML.
 
 Será obligatorio incluir, como mínimo, los siguientes diagramas:
 
----
-
 ### 🎭 Diagrama de Casos de Uso
-
-Debe incluir:
 
 * 👥 Actores claramente identificados
 * ⚙️ Funcionalidades principales del sistema
 * 🔗 Relaciones entre actores y casos de uso
 * ➕ Inclusiones y extensiones si fueran necesarias
 
-Este diagrama permitirá representar la interacción entre los usuarios y el sistema.
-
----
-
 ### 🏛️ Diagrama de Clases
-
-Debe incluir:
 
 * 🧩 Clases principales del sistema
 * 📝 Atributos y métodos
@@ -121,26 +109,14 @@ Relaciones entre clases:
 * 🧱 Composición
 * ↔️ Dependencias
 
-Este diagrama será la base estructural del proyecto.
-
----
-
 ### 🔄 Diagrama de Secuencia (mínimo uno)
-
-Debe representar:
 
 * ⭐ Una funcionalidad clave del sistema
 * 🧠 Interacción entre objetos
 * ⏳ Orden temporal de ejecución
 * 💬 Mensajes intercambiados entre objetos
 
-Este diagrama ayudará a visualizar el comportamiento dinámico del sistema.
-
----
-
-## ✨ Diagramas opcionales
-
-Se podrán añadir otros diagramas si aportan valor al proyecto:
+### ✨ Diagramas opcionales
 
 * 📈 Diagrama de actividades
 * 🔄 Diagrama de estados
@@ -159,13 +135,11 @@ Se valorará especialmente:
 * ✅ La correcta aplicación del diseño planteado
 * ✅ La organización del código según el modelo propuesto
 
-No se trata solo de “dibujar”, sino de diseñar correctamente.
-
 ---
 
 ### 4️⃣ Documentación
 
-📄 Se deberá entregar un documento en PDF que incluya:
+📄 Se deberá entregar un documento PDF que incluya:
 
 * 📝 Breve descripción del sistema
 * 📚 Explicación detallada de cada diagrama
@@ -173,13 +147,11 @@ No se trata solo de “dibujar”, sino de diseñar correctamente.
 * 🔗 Relación entre UML e implementación
 * 🎯 Conclusiones del trabajo realizado
 
-La documentación debe ser clara, profesional y bien estructurada.
-
 ---
 
 ### 5️⃣ Presentación oral
 
-🎤 Se realizará una exposición de entre 10 y 15 minutos, donde el grupo deberá:
+🎤 Exposición de 10 a 15 minutos donde el grupo deberá:
 
 * 🗣️ Explicar los diagramas realizados
 * 💡 Justificar decisiones de diseño
@@ -213,14 +185,10 @@ Se valorará:
 
 ## 🛠️ Herramientas recomendadas
 
-Se recomienda utilizar alguna de las siguientes herramientas para el diseño UML:
-
 * ✏️ Draw.io / diagrams.net
 * 🧩 StarUML
 * 📊 Visual Paradigm
 * 🌐 Lucidchart
-
-También se podrá utilizar cualquier otra herramienta equivalente.
 
 ---
 
@@ -234,12 +202,4 @@ También se podrá utilizar cualquier otra herramienta equivalente.
 * ✅ Repartir correctamente el trabajo del grupo
 
 🏆 Un buen UML no solo representa el sistema: demuestra comprensión, planificación y calidad en el desarrollo.
-
----
-
-## 👨‍🏫 Autoría
-
-* 🏫 Asignatura: Entornos de Desarrollo
-* 📘 Unidad: UT5
-* 📌 Práctica: Diseño y modelado UML del proyecto de Programación
 
