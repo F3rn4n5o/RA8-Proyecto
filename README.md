@@ -35,27 +35,6 @@ Este sistema busca facilitar la organización, seguridad y automatización en la
 
 ---
 
-## 👥 Organización del equipo
-
-### Integrantes y funciones
-
-* 👤 **Fernando:** Desarrollo del diagrama UML
-* 👤 **Jhosue:** Desarrollo del diagrama Entidad–Relación
-* 👤 **Víctor:** Desarrollo del diagrama de Gantt y coordinación general del equipo
-
-### Coordinación
-
-👑 Víctor asumirá el rol de coordinador, encargándose de:
-
-* ✅ Organización general del trabajo
-* ✅ Seguimiento del avance del proyecto
-* ✅ Supervisión de entregas
-* ✅ Coordinación entre los miembros del grupo
-
-Además, cada integrante trabajará en una clase dentro del módulo de programación, permitiendo avanzar de forma paralela al diseño de los diagramas y optimizando el desarrollo del proyecto.
-
----
-
 ## 🎯 Objetivos de aprendizaje
 
 Con esta práctica el alumnado aprenderá a:
