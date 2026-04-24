@@ -13,5 +13,218 @@ Víctor: Desarrollo del diagrama de Gantt y coordinación general del equipo
 👥 Organización del equipo
 Víctor asumirá el rol de coordinador, encargándose de la organización general y seguimiento del avance.
 Cada integrante trabajará en una clase dentro del módulo de programación, para avanzar de forma paralela al diseño de los diagramas.
-🎯 Objetivo
-REDACTA UN READ ME SOBRE ESTOPráctica UT5: Diseño, desarrollo y exposición del diagrama UML del proyecto de la asignatura de Programación En esta práctica de la asignatura Entornos de Desarrollo, el alumnado deberá analizar el proyecto que está desarrollando en Programación y elaborar su correspondiente modelado mediante UML (Unified Modeling Language). El objetivo es comprender, representar y comunicar la estructura y el comportamiento del sistema antes (o durante) su implementación. Objetivos de aprendizaje El alumnado aprenderá a: • Identificar correctamente los elementos del sistema software. • Diseñar diagramas UML coherentes con el proyecto. • Aplicar buenas prácticas de modelado. • Desarrollar habilidades de documentación técnica. • Exponer y defender decisiones de diseño. Organización • Grupos de mínimo 2 y máximo 4 personas. • Todos los integrantes deben participar activamente. • Se deberá poder identificar el trabajo individual.Descripción de la práctica 1. Análisis del proyecto • Revisar el enunciado y requisitos del proyecto de Programación. • Identificar actores, funcionalidades principales y entidades del sistema. 2. Desarrollo de diagramas UML Se deberán incluir, como mínimo, los siguientes diagramas: • Diagrama de casos de uso • Actores claramente identificados. • Relación entre actores y funcionalidades. • Diagrama de clases • Clases con atributos y métodos. • Relaciones (herencia, asociación, agregación, composición). • Visibilidad de atributos y métodos. • Diagrama de secuencia (al menos uno) • Interacción entre objetos para una funcionalidad clave. (Opcional: diagramas adicionales como estados o actividades si aportan valor.) 3. Implementación coherente • El código del proyecto debe reflejar el diseño UML presentado. • Se valorará la consistencia entre el modelo y la implementación. 4. Documentación • Entregar un documento que incluya: • Breve descripción del sistema. • Explicación de cada diagrama. • Justificación de decisiones de diseño. 5. Presentación oral • Exposición de 10–15 minutos. • Explicación clara de los diagramas. • Defensa de decisiones tomadas.Entregables • Documento PDF con los diagramas y explicaciones. • Presentación (opcional: diapositivas). Herramientas recomendadas • Draw.io / diagrams.net • StarUML • Visual Paradigm • Lucidchart
+
+
+
+
+# README - Práctica UT5: Diseño, Desarrollo y Exposición del Diagrama UML
+
+## Asignatura
+
+Entornos de Desarrollo
+
+## Práctica
+
+UT5 - Diseño, desarrollo y exposición del diagrama UML del proyecto de Programación
+
+---
+
+## Descripción general
+
+En esta práctica se deberá analizar el proyecto desarrollado en la asignatura de Programación y realizar su correspondiente modelado mediante UML (Unified Modeling Language).
+
+El objetivo principal es representar de forma clara la estructura y el comportamiento del sistema antes o durante su implementación, permitiendo una mejor comprensión del proyecto, una correcta planificación y una comunicación más efectiva entre los miembros del equipo.
+
+Además, esta práctica permitirá justificar las decisiones de diseño tomadas y comprobar la coherencia entre el modelo UML y el código implementado.
+
+---
+
+## Objetivos de aprendizaje
+
+Con esta práctica el alumnado aprenderá a:
+
+* Identificar correctamente los elementos del sistema software.
+* Diseñar diagramas UML coherentes con el proyecto.
+* Aplicar buenas prácticas de modelado.
+* Desarrollar habilidades de documentación técnica.
+* Exponer y defender decisiones de diseño.
+
+---
+
+## Organización del trabajo
+
+* Trabajo en grupos de mínimo 2 y máximo 4 personas.
+* Todos los integrantes deberán participar activamente.
+* Será necesario poder identificar claramente el trabajo individual de cada miembro.
+
+---
+
+## Desarrollo de la práctica
+
+### 1. Análisis del proyecto
+
+Se deberá realizar una revisión completa del proyecto de la asignatura de Programación:
+
+* Estudio del enunciado
+* Revisión de requisitos funcionales y no funcionales
+* Identificación de actores del sistema
+* Detección de funcionalidades principales
+* Identificación de entidades y relaciones del sistema
+
+Este análisis servirá como base para el desarrollo de los diagramas UML.
+
+---
+
+### 2. Desarrollo de diagramas UML
+
+Será obligatorio incluir, como mínimo, los siguientes diagramas:
+
+#### Diagrama de Casos de Uso
+
+Debe incluir:
+
+* Actores claramente identificados
+* Funcionalidades principales del sistema
+* Relaciones entre actores y casos de uso
+* Inclusiones y extensiones si fueran necesarias
+
+Este diagrama permitirá representar la interacción entre los usuarios y el sistema.
+
+---
+
+#### Diagrama de Clases
+
+Debe incluir:
+
+* Clases principales del sistema
+* Atributos y métodos
+* Visibilidad de atributos y métodos (+, -, #)
+* Relaciones entre clases:
+
+  * Herencia
+  * Asociación
+  * Agregación
+  * Composición
+  * Dependencias
+
+Este diagrama será la base estructural del proyecto.
+
+---
+
+#### Diagrama de Secuencia (mínimo uno)
+
+Debe representar:
+
+* Una funcionalidad clave del sistema
+* Interacción entre objetos
+* Orden temporal de ejecución
+* Mensajes intercambiados entre objetos
+
+Este diagrama ayudará a visualizar el comportamiento dinámico del sistema.
+
+---
+
+### Diagramas opcionales
+
+Se podrán añadir otros diagramas si aportan valor al proyecto:
+
+* Diagrama de actividades
+* Diagrama de estados
+* Diagrama de componentes
+* Diagrama de despliegue
+
+---
+
+### 3. Implementación coherente
+
+El código desarrollado en el proyecto deberá reflejar el diseño UML presentado.
+
+Se valorará especialmente:
+
+* La coherencia entre los diagramas y la implementación
+* La correcta aplicación del diseño planteado
+* La organización del código según el modelo propuesto
+
+No se trata solo de “dibujar”, sino de diseñar correctamente.
+
+---
+
+### 4. Documentación
+
+Se deberá entregar un documento en PDF que incluya:
+
+* Breve descripción del sistema
+* Explicación detallada de cada diagrama
+* Justificación de decisiones de diseño
+* Relación entre UML e implementación
+* Conclusiones del trabajo realizado
+
+La documentación debe ser clara, profesional y bien estructurada.
+
+---
+
+### 5. Presentación oral
+
+Se realizará una exposición de entre 10 y 15 minutos, donde el grupo deberá:
+
+* Explicar los diagramas realizados
+* Justificar decisiones de diseño
+* Defender la estructura del proyecto
+* Mostrar coherencia entre diseño e implementación
+
+Se valorará:
+
+* Claridad en la exposición
+* Dominio del tema
+* Participación equilibrada del grupo
+* Capacidad de respuesta ante preguntas
+
+---
+
+## Entregables
+
+### Obligatorio
+
+* Documento PDF con:
+
+  * Diagramas UML
+  * Explicaciones
+  * Justificaciones
+
+### Opcional
+
+* Presentación de apoyo (PowerPoint, Canva, Google Slides, etc.)
+
+---
+
+## Herramientas recomendadas
+
+Se recomienda utilizar alguna de las siguientes herramientas para el diseño UML:
+
+* Draw.io / diagrams.net
+* StarUML
+* Visual Paradigm
+* Lucidchart
+
+También se podrá utilizar cualquier otra herramienta equivalente.
+
+---
+
+## Recomendaciones finales
+
+* Mantener consistencia entre todos los diagramas
+* Evitar diagramas sobrecargados
+* Utilizar nombres claros y profesionales
+* Revisar ortografía y presentación
+* Preparar bien la defensa oral
+* Repartir correctamente el trabajo del grupo
+
+Un buen UML no solo representa el sistema: demuestra comprensión, planificación y calidad en el desarrollo.
+
+---
+
+## Autoría
+
+Asignatura: Entornos de Desarrollo
+Unidad: UT5
+Práctica: Diseño y modelado UML del proyecto de Programación
