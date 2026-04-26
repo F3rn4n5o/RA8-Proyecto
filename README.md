@@ -169,16 +169,3 @@ Se valorará:
 * 📊 Visual Paradigm
 * 🌐 Lucidchart
 
----
-
-## 💡 Recomendaciones finales
-
-* ✅ Mantener consistencia entre todos los diagramas
-* ✅ Evitar diagramas sobrecargados
-* ✅ Utilizar nombres claros y profesionales
-* ✅ Revisar ortografía y presentación
-* ✅ Preparar bien la defensa oral
-* ✅ Repartir correctamente el trabajo del grupo
-
-🏆 Un buen UML no solo representa el sistema: demuestra comprensión, planificación y calidad en el desarrollo.
-
